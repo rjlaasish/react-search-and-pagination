@@ -1,1 +1,1 @@
-## Demo Link : ` https://search-and-pagination.web.app/  ` or <a  href="https://search-and-pagination.web.app/">CLICK HERE</a>
+## Demo Link : ` https://search-and-pagination.web.app/  ` or <a target="_blank"  href="https://search-and-pagination.web.app/">CLICK HERE</a>
